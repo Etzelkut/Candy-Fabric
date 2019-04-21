@@ -7,3 +7,4 @@ You can see result and description in video called final.mp4.
 3. Check how light sensor and motors work, if needed change values in projectF_ino.ino
 4. Run startt function in Python folder in python.py
 
+![Conveyer](https://github.com/Etzelkut/Candy-Fabric/blob/master/got.gif)
