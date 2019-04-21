@@ -6,7 +6,7 @@ You can see result and description in video called finald.avi.
 
 1. First run script.py on your phone, which provided in Android folder.
 
-2.  Then upload code from Arduino folder,projectF_ino.ino to your Arduino board.
+2.  Then upload code from Arduino folder, projectF_ino.ino to your Arduino board.
 
 3. Check how light sensor and motors work, if needed change values in projectF_ino.ino
 
